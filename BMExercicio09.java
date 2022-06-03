@@ -1,4 +1,4 @@
-public class BMExercio09 {
+public class BMExercicio09 {
     public static void main(String[] args) {
         int numero = 10;
         int contador = 20;
